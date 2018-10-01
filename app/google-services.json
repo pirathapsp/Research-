@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509346609704",
+    "firebase_url": "https://kidnapapp.firebaseio.com",
+    "project_id": "kidnapapp",
+    "storage_bucket": "kidnapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509346609704:android:154863743ea008a4",
+        "android_client_info": {
+          "package_name": "com.example.pirathap.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509346609704-s246dk9b5msjr900j3ssqshev53gjtn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pirathap.login",
+            "certificate_hash": "3f75b765fcbb78be6b8772044c21d1f44c7cc0b3"
+          }
+        },
+        {
+          "client_id": "509346609704-ibc4g7d32rf9qmd7o8af7nrko1quduka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjU3RlsOzBteBOrBHn2MQmE8qVqEMzhyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509346609704-ibc4g7d32rf9qmd7o8af7nrko1quduka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
